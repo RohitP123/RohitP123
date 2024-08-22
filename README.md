@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Rohit! 👋
+
+### About Me
+- Studying Computer Science @ Georgia Tech (B.S. May 2025, M.S. May 2026)
+- I have interned at Jeppesen (A Boeing Company) and UPS as a software engineering intern in the past
 
 <!--
 **RohitP123/RohitP123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
